@@ -36,3 +36,17 @@ mesa-zink mesa-vulkan-icd-freedreno
 vulkan-loader-android: This Pkg Loads Android built in Vulkan Drivers 
 
 
+## Step: 2 Moving And installing ISO Files to boot 
+
+for x86 and x64 both are same run this commands: ```bash
+mv "/yourfile/path/yourOSFilename" "\$HOME/"
+mv /yourfile/path/FileName "\$HOME/yourfilename"
+```
+
+HelpFul Tip: If you have Work With files I Recommend ZArchiver As it supports 7z,zip,etc format best part its completely **FREE** And It can extract 7z without you going to web Get it on Google Play Store or Apple Store (idk if its on apple store) 
+
+
+
+
+## WORK IN PROGRESS RIGHT NOW
+
