@@ -22,7 +22,7 @@ Explain: This allows Termux to Get Storage Perms So it can write and And move yo
 Bonus: If you don't know about -y and -n -y means when it asks you like *This Archive will download 50MB etc* So Instead OF YOU Typing y or n -y tells it to auto yes and -n makes it auto no 
 
 
-x11-repo: This Package is VERY CRITICAL Beacuse Its required for SocketListners those are to hear x11 signals And when caught it will start it Without It Termux dosent even know if x11 even Exists
+x11-repo: This Package is VERY CRITICAL Beacuse Its required X11 To even work bc it reads All The files to do it 
 
 (Quick note: im getting Lazy typing everything so I will explain those are important bc Im seriously writing this 10 at night) 
 
@@ -31,7 +31,7 @@ python python-tkinter: This installs Python language because this Script has Lin
 qemu-system-x86_64: Star of the show here This is the translator if you are running windows x86 or x64 this is the translator it will take the code and translate the code that your CPU Understands
 
 mesa-zink mesa-vulkan-icd-freedreno
-  virglrenderer-mesa-zink vulkan-loader-android: this are Turnip and Zink They Are Snapdragon Offcial Drivers optimized makes your booting much faster 
+  virglrenderer-mesa-zink vulkan-loader-android: this are Turnip and Zink They Are Community Build I use it for my Phone too LOL And it offloads you GPU For faster booting
 
 vulkan-loader-android: This Pkg Loads Android built in Vulkan Drivers 
 
