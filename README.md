@@ -225,3 +225,6 @@ GDK_BACKEND=x11 DISPLAY=:0 taskset -c "$CORE_MASK" qemu-system-x86_64 \
 EOF
 chmod +x /data/data/com.termux/files/usr/bin/StartPC
 
+
+(Read This: First the line Adreno 640 Turnip + Zink Hardware Acceleration for X11 / QEMU GTK
+it has a hash tag at first makes it Big copy that too)
